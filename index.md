@@ -63,8 +63,8 @@
 연번 | 오브젝트 이름 | 오브젝트 이미지
 ---- | ---- | ----
 1 |주인공| <img src="./img/캐릭터.png">
-2 |아이템|<img src="./img/아이템.png">
-3 |함정| <img src="./img/함정.PNG">   
+2 |아이템|<img src="./img/아이템.PNG">
+3 |함정| <img src="./img/함정.png">   
 4 |선택지| <img src="./img/선택지.png">   
    
 ## 피라미터(속성)
