@@ -235,6 +235,8 @@
 
 - 결과
 
+
+
 ## 4주차
 
 - 작업명 : 두 번째 맵 완성, 각종 오브젝트 및 NPC 제작, 첫 번째 맵 보완
@@ -251,7 +253,4 @@
 
 - 결과
 
-
-
-
-
+## [동영상](http://img.youtube.com/vi/EEOJLQhORZ8/0.jpg)(https://www.youtube.com/watch?v=EEOJLQhORZ8&feature=youtu.be)
