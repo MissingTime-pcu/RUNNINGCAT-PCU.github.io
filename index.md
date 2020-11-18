@@ -254,7 +254,7 @@
 - 결과
 <video controls width="640" height="480">
 
-    <source src="files/w01/문제1.mp4" type="video/mp4">
+    <source src="files/img/4주차.mp4" type="video/mp4">
 
     Sorry, your browser doesn't support embedded videos.
 
