@@ -12,6 +12,7 @@
 [- 2주차](#2주차)  
 [- 3주차](#3주차)  
 [- 4주차](#4주차) 
+[- 5주차](#5주차) 
 # 컨셉
 ## 메인컨셉
 - 추리, 스토리 게임
@@ -246,6 +247,7 @@
 - 첫 번째 맵 보완
 - 두 번째 맵 완성
 - 각종 오브젝트 및 NPC 제작
+
 - 설명 : (구체적 작업 설명)
 
 - 도트를 이용해 두 번째 맵을 완성한다 [ 지형지물 및 가구 ]
@@ -255,6 +257,29 @@
 <video controls width="640" height="480">
 
     <source src="files/img/4주차.mp4" type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+
+</video>
+
+## 5주차
+
+- 작업명 : 세 번째 맵 완성, 몬스터 제작
+
+- 해당 요구사항 : 오브젝트 및 NPC, 이벤트 제작
+
+- 세 번째 맵 완성
+- 주인공을 쫓아다니는 몬스터 제작
+
+- 설명
+
+- 도트를 이용해 세 번째 맵을 완성한다 [ 지형지물 및 가구 ]
+- 특정 상황에서 주인공을 쫓아다니는 몬스터를 제작한다 [ 도트작업 및 이벤트 구현 ]
+
+- 결과
+<video controls width="640" height="480">
+
+    <source src="files/img/5주차.mp4" type="video/mp4">
 
     Sorry, your browser doesn't support embedded videos.
 
