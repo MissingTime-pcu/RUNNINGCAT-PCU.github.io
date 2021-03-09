@@ -41,7 +41,7 @@
 
 <br><br>
 # [대표 이미지]
-<img src="./img/대표 이미지.jpg">
+<img src="./img/대표 이미지.png">
 
 
 <br><br>
