@@ -196,10 +196,10 @@
 - 시간 타이머가 오작동을 하지 않음
 - 유한 상태 머신 구현 (ai)
 
- <img src="./img/2주차.jpg">
- <img src="./img/2주차1.jpg">
- <img src="./img/2주차2.jpg">
- <img src="./img/2주차3.jpg">
+<img src="./img/2주차.JPG"> 
+<img src="./img/2주차1.JPG"> 
+<img src="./img/2주차2.JPG"> 
+<img src="./img/2주차3.JPG"> 
 
 
 
