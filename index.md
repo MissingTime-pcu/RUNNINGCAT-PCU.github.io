@@ -272,7 +272,7 @@ NPC | 임도 | 플레이어에게 퀘스트를 부여하여 성공할 시 아이
 
 <video controls width="640" height="480">
 
-    <source src="files/img/3jo.mkv" type="video/mkv">
+    <source src="files/img/3jo.mkv"type="video/mkv">
 
     Sorry, your browser doesn't support embedded videos.
 
