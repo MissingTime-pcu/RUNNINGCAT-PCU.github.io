@@ -268,12 +268,6 @@ NPC | 임도 | 플레이어에게 퀘스트를 부여하여 성공할 시 아이
 
 <img src="./img/bb.jpg">
 
-- 영상
-
-<source src="files/img/3jo.mkv" type="video/mkv">
-
-
-
 ## 4주차
 
 
@@ -282,13 +276,6 @@ NPC | 임도 | 플레이어에게 퀘스트를 부여하여 성공할 시 아이
 
 ## 6주차
 
-<video controls width="640" height="480">
-
-    <source src="files/img/5week.mp4" type="video/mp4">
-
-    Sorry, your browser doesn't support embedded videos.
-
-</video>
 
 ## 7주차
 
