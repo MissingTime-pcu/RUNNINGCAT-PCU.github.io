@@ -358,12 +358,6 @@ NPC | 임도 | 플레이어에게 퀘스트를 부여하여 성공할 시 아이
 
 [![게임 플레이 영상](http://img.youtube.com/vi/Icvr3DbEDLg/0.jpg)](https://youtu.be/Icvr3DbEDLg) 
 
-
-
-https://youtu.be/Icvr3DbEDLg
-
-
-
 ## 10주차
 
 ## 11주차
